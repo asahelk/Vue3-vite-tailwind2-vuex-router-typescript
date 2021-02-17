@@ -1,4 +1,4 @@
-# test-project
+# vue3-vite-tailwind2-vuex-router-typescript
 
 ## Project setup
 ```
