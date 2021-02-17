@@ -1,5 +1,5 @@
 {
-  "name": "test-project",
+  "name": "vue3-vite-tailwind2-vuex-router-typescript",
   "version": "0.1.0",
   "private": true,
   "scripts": {
